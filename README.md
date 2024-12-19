@@ -51,7 +51,7 @@ I am looking for opportunities in **Machine Learning**, **Data Science**, **Quan
 
 ## 💡 Most Used Languages:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakil-02&layout=compact&theme=radical&hide=jupyter%20notebook,html&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakil-02&layout=compact&theme=radical&hide=jupyter%20notebook,html,css&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
